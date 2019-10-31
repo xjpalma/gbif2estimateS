@@ -16,7 +16,7 @@
 
 You can also:
   - Import and export files to a especific location directory
-  - use verbose mode to see what happening
+  - use verbose mode to see what's happening
 
 
 # Tech
@@ -40,7 +40,7 @@ We strongly advise to use a [conda] environment. Install the dependencies with c
 ```sh
 $ conda install --file dist/requirements.txt
 ```
-Run the test to see if all is installed correctly:
+Run test to see if everything is installed correctly:
 ```
 $ cd test
 $ ./test.sh
