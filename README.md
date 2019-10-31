@@ -1,7 +1,7 @@
 # gbif2EstimateS
 
 
-[![Build Status](https://travis-ci.org/xjpalma/gbif2estimateS.svg?branch=master)](https://travis-ci.org/xjpalma/gbif2estimateS)
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
 
 *gbif2EstimateS* is a python script to convert [GBIF] output to [EstimateS] program.
 
