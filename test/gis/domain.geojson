@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "PT_ES_without_islands"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+        [[-10, 36], [0.5, 36], [0.5, 40.5], [3.5, 40.5], [3.5, 44], [-10, 44], [-10, 36]]
+    ]
+  }
+}
